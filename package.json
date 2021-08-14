@@ -1,0 +1,28 @@
+{
+  "name": "instagram-the-elder-scrolls",
+  "version": "1.0.0",
+  "description": "Because my friend always sending a lot message to me, So do i.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoneTwelve/instagram-the-elder-scrolls.git"
+  },
+  "keywords": [
+    "The-elder-scrolls-images"
+  ],
+  "author": "ZoneTwelve",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/ZoneTwelve/instagram-the-elder-scrolls/issues"
+  },
+  "homepage": "https://github.com/ZoneTwelve/instagram-the-elder-scrolls#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "prompt-sync": "^4.2.0",
+    "prompt-sync-history": "^1.0.1",
+    "puppeteer": "^10.2.0"
+  }
+}
